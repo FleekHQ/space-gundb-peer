@@ -1,0 +1,28 @@
+{
+  "name": "space-gundb-peer",
+  "version": "1.0.0",
+  "description": "Gundb Relay Peer in-sync with space-sdk",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FleekHQ/space-gundb-peer.git"
+  },
+  "keywords": [
+    "space",
+    "ipfs",
+    "sdk",
+    "gundb"
+  ],
+  "author": "Perfect Makanju <perfect@fleek.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FleekHQ/space-gundb-peer/issues"
+  },
+  "homepage": "https://github.com/FleekHQ/space-gundb-peer#readme",
+  "dependencies": {
+    "gun": "^0.2020.520"
+  }
+}
